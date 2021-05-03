@@ -10,20 +10,20 @@ This repository shows how to run MATLAB tests with a variety of continuous integ
 TBD
 
 ### Azure DevOps
-[![Azure DevOps Build Status](https://dev.azure.com/sifounak/MATLAB_Test/_apis/build/status/sifounak.Test_Repo?branchName=main)](https://dev.azure.com/sifounak/MATLAB_Test/_build/latest?definitionId=1&branchName=main)
+[![Azure DevOps Build Status](https://img.shields.io/badge/Azure%20Pipelines-succeeded-brightgreen?logo=azurepipelines)]
 ![Azure DevOps Coverage](https://img.shields.io/azure-devops/coverage/sifounak/MATLAB_Test/1/main)
 [Blog with helpful information for setting up Azure DevOps badges](https://gregorsuttie.com/2019/03/20/azure-devops-add-your-build-status-badges-to-your-wiki/)
 
 ### CircleCI
-[![CircleCI Build Badge](https://circleci.com/gh/sifounak/Test_Repo.svg?style=shield)](https://app.circleci.com/pipelines/github/sifounak/Test_Repo)
+[![CircleCI Build Badge](https://img.shields.io/badge/circleci-passing-brightgreen)]
 [CircleCI documentation for setting up badges](https://circleci.com/docs/2.0/status-badges/#generating-a-status-badge "CircleCI documentation for setting up badges")
 
 ### Travis CI
-[![Travis CI Build Status](https://travis-ci.com/sifounak/Test_Repo.svg?style=svg?branch=main)](https://travis-ci.com/sifounak/Test_Repo)
+[![Travis CI Build Status](https://img.shields.io/badge/build-passing-brightgreen)]
 [Travis CI documentation for setting up badges](https://docs.travis-ci.com/user/status-images/ "Travis CI documentation for setting up badges")
 
 ### GitHub Actions
-[![MATLAB](https://github.com/sifounak/Test_Repo/workflows/MATLAB/badge.svg)](https://github.com/sifounak/Test_Repo/actions?query=workflow%3AMATLAB)
+[![MATLAB](https://img.shields.io/badge/MATLAB%20Tests-passing-brightgreen?logo=github)]
 [GitHub Actions documentation for setting up badges](https://docs.github.com/en/actions/managing-workflow-runs/adding-a-workflow-status-badge)
 
 ## About the code
