@@ -151,7 +151,7 @@ jobs:
 
 
 ## Caveats
-* Currently, MATLAB builds on Travis CI are available only for public projects. MATLAB builds on Azure DevOps, CircleCI, and GitHub Actions that use CI service-hosted agents are also available only for public projects. However, these integrations can be used in private porjecrts that leverage self-hosted runners/agents.
+* Currently, MATLAB builds on Travis CI are available only for public projects. MATLAB builds on Azure DevOps, CircleCI, and GitHub Actions that use CI service-hosted agents are also available only for public projects. However, these integrations can be used in private projects that leverage self-hosted runners/agents.
 
 ## Links
 - [Continuous Integration with MATLAB and Simulink](https://www.mathworks.com/solutions/continuous-integration.html)
