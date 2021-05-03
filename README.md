@@ -15,7 +15,7 @@ TBD
 [Blog with helpful information for setting up Azure DevOps badges](https://gregorsuttie.com/2019/03/20/azure-devops-add-your-build-status-badges-to-your-wiki/)
 
 ### CircleCI
-![CircleCI Build Badge](https://img.shields.io/badge/circleci-passing-brightgreen)
+![CircleCI Build Badge](https://img.shields.io/badge/circleci-passing-brightgreen?logo=circleci)
 [CircleCI documentation for setting up badges](https://circleci.com/docs/2.0/status-badges/#generating-a-status-badge "CircleCI documentation for setting up badges")
 
 ### Travis CI
